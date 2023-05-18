@@ -1,8 +1,4 @@
-# orm_trainer
-
-Решение задач с https://sql-ex.ru/ с помощью Django ORM +
-
 orm_trainer
 ======
 
-## Решение задач с https://sql-ex.ru/ с помощью Django ORM + Logging
+## Решение задач с sql-ex.ru с помощью Django ORM + Logging
